@@ -9,3 +9,7 @@ Noelle: REPAPIPS
 Noelle: OPPAAAAA
 Noelle: henlo papi
 Mehanie: hiiiii
+
+Server setup:
+https://jtreminio.com/2012/04/setting-up-an-ubuntu-vm-step-by-step/
+https://help.ubuntu.com/community/VirtualBox/Networking
