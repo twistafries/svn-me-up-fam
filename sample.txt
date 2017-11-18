@@ -1,2 +1,4 @@
 class sample{
+	public void method 1(){
+	}
 }
