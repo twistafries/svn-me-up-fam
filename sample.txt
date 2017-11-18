@@ -1,2 +1,5 @@
 class sample{
+
+	public void method2(){
+	}
 }
