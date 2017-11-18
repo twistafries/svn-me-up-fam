@@ -4,4 +4,6 @@ class sample{
 	}
 	public void method2(){
 	}
+	puclic void method4(){
+	}
 }
